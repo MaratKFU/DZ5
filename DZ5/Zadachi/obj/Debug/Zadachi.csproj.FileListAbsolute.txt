@@ -1,0 +1,7 @@
+C:\Users\Honor\source\repos\DZ5\Zadachi\bin\Debug\Zadachi.exe.config
+C:\Users\Honor\source\repos\DZ5\Zadachi\bin\Debug\Zadachi.exe
+C:\Users\Honor\source\repos\DZ5\Zadachi\bin\Debug\Zadachi.pdb
+C:\Users\Honor\source\repos\DZ5\Zadachi\obj\Debug\Zadachi.csproj.AssemblyReference.cache
+C:\Users\Honor\source\repos\DZ5\Zadachi\obj\Debug\Zadachi.csproj.CoreCompileInputs.cache
+C:\Users\Honor\source\repos\DZ5\Zadachi\obj\Debug\Zadachi.exe
+C:\Users\Honor\source\repos\DZ5\Zadachi\obj\Debug\Zadachi.pdb
